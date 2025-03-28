@@ -1,5 +1,5 @@
 import React from 'react'
-import './footer.css'
+import '../../style/Footer.css'
 //import logo from '../../../assets/Logo.png'
 import "bootstrap-icons/font/bootstrap-icons.css";
 import { Col, Row } from 'react-bootstrap';
