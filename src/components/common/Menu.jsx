@@ -6,7 +6,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import Logo from '../../assets/Logo.png'
 import moneda from'../../../assets/Moneda.png'
-import './menu.css'
+import '../../style/Menu.css'
 import { NavLink } from 'react- router-dom';
 
 const Menu = () => {
